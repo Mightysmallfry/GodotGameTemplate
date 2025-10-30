@@ -22,7 +22,7 @@ The purpose of this game template is to allow new devs that are new to Godot to 
 - Worldbuilding
 
 ## Level Design Guidelines
-These are not rules these are suggestions that as a level designer, should try to keep in mind when designing your level.
+These are not rules these are suggestions that as a level designer, should be kept in mind when designing levels.
 - Guide the player
 - Challenge the player
 - Design with purpose. How does the level progress the game?
@@ -31,7 +31,7 @@ These are not rules these are suggestions that as a level designer, should try t
 ## Pretty/Beautiful Corners
 When making a level, it can be hard to continuously look at greyboxed, basic, relatively plain textures. 
 
-So make a _**small**_ beautiful corner of your level that is what you expect and want your game to look like at the end. This makes it easier at the end to go through, updating art and making sure that it is both uniform and efficient.
+So make a _**small**_ beautiful corner. A small level that represents a portion of your game and is what you expect and want your game to look like at the end. This makes it easier at the end to go through, updating art and making sure that it is both uniform and efficient.
 
 ## Credit
 This project uses assets from other creators and as such a creator should always honor the creator of the assets they wish to use. All of these assets were found on Itch.io
