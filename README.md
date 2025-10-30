@@ -34,7 +34,7 @@ When making a level, it can be hard to continuously look at greyboxed, basic, re
 So make a _**small**_ beautiful corner. A small level that represents a portion of your game and is what you expect and want your game to look like at the end. This makes it easier at the end to go through, updating art and making sure that it is both uniform and efficient.
 
 ## Credit
-This project uses assets from other creators and as such a creator should always honor the creator of the assets they wish to use. All of these assets were found on Itch.io
+This project uses assets from other creators and while credit is not required you should always do when possible. All of these assets were found on Itch.io
 - Penusbmic - Ball and Chain Bot, Toaster Bot, Storm Head Droid
 - Burrito - Blood Demon Swordwielder
 - Trixie - Stringstar Fields
