@@ -1,6 +1,6 @@
 [gd_scene load_steps=14 format=3 uid="uid://dkygmybsvf3i4"]
 
-[ext_resource type="Script" uid="uid://c6e22mpjda1sc" path="res://environment objects/spike_death.gd" id="1_6o67h"]
+[ext_resource type="Script" uid="uid://c6e22mpjda1sc" path="res://environment objects/scripts/spike_death.gd" id="1_6o67h"]
 [ext_resource type="Texture2D" uid="uid://cl2qyu66q0v21" path="res://Assets/Ice-Thunderstorm's/Spikes.png" id="2_ymduj"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_s8mjo"]
